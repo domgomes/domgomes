@@ -1,16 +1,84 @@
-# 💫 About Me:
-Enterprise Data & Analytics leader with nearly two decades of experience turning complex, high-volume data into decisions that matter-across reporting transformation, business intelligence, machine learning, and enterprise automation in global financial services.<br><br>I lead teams that build the analytical backbone large organizations run on: standardized reporting frameworks, trusted data layers, and automation that replaces manual work with scalable, governed pipelines. My work has supported over 1,100 global testing and governance programs and delivered measurable outcomes-including $1.3M+ in realized efficiency savings and an 80% reduction in manual analytical effort through platform migration and automation.<br><br>What I bring to a team:<br><br>Enterprise analytics strategy-building reporting ecosystems that scale across global markets and functions<br>ML & predictive analytics-forecasting operational risk and threshold breaches before they become problems<br>Team & talent development-building and mentoring high-performing analytics teams, several of whom have advanced into senior leadership<br>Cross-functional partnership-translating data into insight for risk, compliance, technology, operations, and executive stakeholders<br><br>I hold a PGP in Data Science & Business Analytics from the McCombs School of Business, University of Texas at Austin, pairing hands-on technical depth in SQL, Python, and modern data platforms with two decades of enterprise leadership experience.<br><br>I'm currently exploring executive opportunities in data, reporting, and analytics leadership, where I can bring this combination of strategic vision and technical fluency to organizations building their next-generation data capability.
+<p align="center">
+  <img src="images/banner.png" alt="Dominic Gomes Banner" width="100%">
+</p>
+
+# 🧑 **About Me:**
+I'm an **Enterprise Data & Analytics Leader** with nearly two decades of experience transforming complex data into business decisions through analytics, automation, and AI-driven solutions.
+
+Throughout my career, I've led enterprise reporting and analytics initiatives supporting **1,100+ global testing and governance programs**, delivering measurable business outcomes—including **$1.3M+ in efficiency savings** and an **80% reduction in manual analytical effort** through automation and platform modernization.
+
+Today, my focus extends beyond reporting. I'm passionate about building **AI-powered analytics applications**, developing **machine learning models**, designing **data engineering pipelines**, and creating intelligent automation that helps organizations make faster, smarter, and more reliable decisions.
+
+On this GitHub, you'll find projects covering:
+
+* 🤖 AI Agents & LLM Applications
+* 🧠 Machine Learning & Predictive Analytics
+* 📊 Business Intelligence & Interactive Dashboards
+* ☁️ Google Cloud, BigQuery & Data Engineering
+* 🐍 Python, SQL & Enterprise Automation
+* 📈 End-to-End Data Science Projects
+
+**My goal** is simple: **combine deep business understanding with modern AI and data technologies to build solutions that create measurable business value.**
+
+Whether it's developing an AI-powered SQL assistant, building predictive risk models, automating enterprise workflows, or designing executive dashboards, I enjoy solving real business problems with data.
 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dgomes2027@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dgomes2027@gmail.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dgomes2027@gmail.com) 
 
-# 💻 Tech Stack:
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=domgomes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=domgomes&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=domgomes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 🖥️ Tech Stack:
+🤖 **AI Agents & LLM Applications:**
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge)
 
----
-[![](https://komarev.com/ghpvc/?username=domgomes&icon=0&color=0)](https://visitcount.itsvg.in)
+🧠 **Machine Learning & Data Science:**
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data_Science-4285F4?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+🐍 **Programming:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Excel VBA](https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+📊 **Analytics & Visualization:**
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+📈 **Data Engineering:**
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+⚡ **Automation & Apps:**
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Automation](https://img.shields.io/badge/Process_Automation-0A66C2?style=for-the-badge)
+
+💼 **Enterprise Tools:**
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172BF4?style=for-the-badge&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+💻 **Development:**
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+⭐ **Competencies:**
+![Automation](https://img.shields.io/badge/Automation-0A66C2?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-009688?style=for-the-badge)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-1565C0?style=for-the-badge)
+![Control Analytics](https://img.shields.io/badge/Control_Analytics-3949AB?style=for-the-badge)
+![Risk Analytics](https://img.shields.io/badge/Risk_Analytics-C62828?style=for-the-badge)
+![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-1E88E5?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-FF7043?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-5E17EB?style=for-the-badge)
+
