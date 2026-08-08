@@ -1,16 +1,16 @@
-## Hi there 👋
+# 💫 About Me:
+Enterprise Data & Analytics leader with nearly two decades of experience turning complex, high-volume data into decisions that matter—across reporting transformation, business intelligence, machine learning, and enterprise automation in global financial services.<br><br>I lead teams that build the analytical backbone large organizations run on: standardized reporting frameworks, trusted data layers, and automation that replaces manual work with scalable, governed pipelines. My work has supported over 1,100 global testing and governance programs and delivered measurable outcomes—including $1.3M+ in realized efficiency savings and an 80% reduction in manual analytical effort through platform migration and automation.<br><br>What I bring to a team:<br><br>Enterprise analytics strategy—building reporting ecosystems that scale across global markets and functions<br>ML & predictive analytics—forecasting operational risk and threshold breaches before they become problems<br>Team & talent development—building and mentoring high-performing analytics teams, several of whom have advanced into senior leadership<br>Cross-functional partnership—translating data into insight for risk, compliance, technology, operations, and executive stakeholders<br><br>I hold a PGP in Data Science & Business Analytics from the McCombs School of Business, University of Texas at Austin, where I graduated Rank #1 (GPA 4.22/4.33)—pairing hands-on technical depth in SQL, Python, and modern data platforms with two decades of enterprise leadership experience.<br><br>I'm currently exploring executive opportunities in data, reporting, and analytics leadership, where I can bring this combination of strategic vision and technical fluency to organizations building their next-generation data capability.
 
-<!--
-**domgomes/domgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dgomes2027@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dgomes2027@gmail.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dgomes2027@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=domgomes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=domgomes&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=domgomes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=domgomes&icon=0&color=0)](https://visitcount.itsvg.in)
