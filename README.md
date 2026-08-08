@@ -5,9 +5,9 @@
 # 🧑 **About Me:**
 I'm an **Enterprise Data & Analytics Leader** with nearly two decades of experience transforming complex data into business decisions through analytics, automation, and AI-driven solutions.
 
-Throughout my career, I've led enterprise reporting and analytics initiatives supporting **1,100+ global testing and governance programs**, delivering measurable business outcomes—including **$1.3M+ in efficiency savings** and an **80% reduction in manual analytical effort** through automation and platform modernization.
+Throughout my career, I've led enterprise reporting and analytics initiatives supporting **1,100+ SQL based tests migrated to BigQuery**, delivering measurable business outcomes-including **$1.3M+ in efficiency savings** and an **80% reduction in manual effort** through automation and platform modernization.
 
-Today, my focus extends beyond reporting. I'm passionate about building **AI-powered analytics applications**, developing **machine learning models**, designing **data engineering pipelines**, and creating intelligent automation that helps organizations make faster, smarter, and more reliable decisions.
+Today, my focus extends beyond reporting. I'm passionate about building **AI-powered analytics applications**, developing **machine learning models**, designing **data engineering pipelines**, and creating intelligent automation that helps the organization make faster, smarter, and more reliable decisions.
 
 On this GitHub, you'll find projects covering:
 
